@@ -1,3 +1,4 @@
+
 type CalorieDisplayProps = {
     calories: number
     text: string
